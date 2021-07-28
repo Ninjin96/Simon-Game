@@ -1,4 +1,4 @@
-# Simon-Game
+# Simon-Game (DESKTOP ONLY)
 Hi there everyone and future me reading this! In this project I will present a game that I've recreated with the main focus on learning about to use jQuery.
 Thanks to jQuery I've been able to write shorter, sweeter and often more comprehensible code.
 
